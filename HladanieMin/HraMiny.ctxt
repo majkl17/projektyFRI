@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HraMiny
+comment0.text=\r\n\ Trieda\ HraMiny\ obsahuje\ graficku\ cast\ hry\ a\ menezuje\ vstup\ do\ konzole/terminalu.\ \r\n\ Kontroluje\ ci\ prebieha\ hra;\ rozhoduje\ o\ tom,\ ci\ hrac\ vyhral/prehral;\ nastavuje\r\n\ obtiaznosti\ lahka/stredna/narocna/vlastna.\ V\ skratke\ je\ to\ taky\ menezer\ celej\ hry.\r\n\ \r\n\ @author\ Michal\ Pa\u017Eitn\u00FD\ \r\n\ @version\ 04.01.2023\r\n
+comment1.params=
+comment1.target=HraMiny()
+comment1.text=\r\n\ Bezparametricky\ konstruktor\ triedy\ HraMiny,\ ktory\ hru\ vytvori\ a\ nahra\ do\ atributu\ vyberPrvejPozicie\ hodnotu\ prvej\ pozicie,\ aku\ si\ hrac\ vybral.\r\n\ Podla\ toho\ sa\ dalej\ odvija\ aj\ spawnovanie\ min\ v\ triede\ HraciePole\ a\ tak\ dalej.\r\n
+comment2.params=
+comment2.target=HraciePole\ vyberObtiaznosti()
+comment2.text=\r\n\ Metoda\ triedy\ HraMiny\ zodpovedajuca\ za\ menezovanie\ vyberu\ obtiaznosti\ a\ spravneho\ generovania\ hracieho\ pola\r\n
+comment3.params=riadok\ stlpec
+comment3.target=void\ setPrvyVyber(int,\ int)
+comment3.text=\r\n\ Metoda\ triedy\ HraMiny\ nastavi\ prvy\ vyber\ policka\ hraca\ \ \r\n
+comment4.params=
+comment4.target=void\ zapniHru()
+comment4.text=\r\n\ Metoda\ triedy\ HraMiny\ zapne\ novu\ hru\ min.\ Jednotlive\ useky\ kodu\ su\ presnejsie\ vysvetlene\ priamo\ pri\ alogritmoch\ a\ prikazoch.\r\n
+numComments=5

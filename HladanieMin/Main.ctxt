@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Trieda\ Main\ obsahuje\ main\ metodu\ na\ spustanie\ hry\ v\ blueJ\ ale\ aj\ mimo\ nej.\r\n\ \r\n\ @author\ Michal\ Pa\u017Eitn\u00FD\r\n\ @version\ 07.01.2023\r\n
+comment1.params=parametre
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ metoda\ s\ parametrom\ pole\ Stringov\ vytvara\ novu\ instanciu\ hry\ a\ spusta\ ju.\ \r\n
+comment2.params=
+comment2.target=void\ vypnutieHry()
+comment2.text=\r\n\ Metoda\ triedy\ Main\ sluzi\ na\ vypinanie\ hry\r\n
+numComments=3

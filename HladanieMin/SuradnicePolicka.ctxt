@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SuradnicePolicka
+comment0.text=\r\n\ Trieda\ SuradnicePolicka\ sluzi\ na\ pridelenie\ suradnic\ polickam\ a\ pracu\ s\ nimi\ v\ ramci\ hracieho\ pola.\ \r\n\ Jej\ metody\ sa\ vyuzivaju\ hlavne\ v\ ArrayListoch\ v\ triede\ HraciePole.\r\n\ \r\n\ @author\ Michal\ Pa\u017Eitn\u00FD\r\n\ @version\ 4.12.2022\r\n
+comment1.params=
+comment1.target=SuradnicePolicka()
+comment1.text=\r\n\ Bezparametricky\ konstruktor\ triedy\ SuradnicePolicka,\ ktory\ vytvara/prideluje\ suradnice\ jednotlivym\ polickam\ na\ hracom\ poli.\ \r\n
+comment2.params=
+comment2.target=int\ getRiadok()
+comment2.text=\r\n\ Vracia\ suradnicu\ policka\ (na\ ktorom\ riadku\ sa\ nachadza)\r\n
+comment3.params=riadok
+comment3.target=void\ setRiadok(int)
+comment3.text=\r\n\ Nastavuje\ suradnicu\ riadka\ policka\ v\ hracom\ poli\r\n
+comment4.params=
+comment4.target=int\ getStlpec()
+comment4.text=\r\n\ Vracia\ suradnicu\ policka\ (na\ ktorom\ riadku\ sa\ nachadza)\r\n
+comment5.params=stlpec
+comment5.target=void\ setStlpec(int)
+comment5.text=\r\n\ Nastavuje\ suradnicu\ stlpca\ policka\ v\ hracom\ poli\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Vypise\ suradnice\ policka\ (riadok\ a\ stlpec)\ vo\ forme\ pola.\ Cize\ napriklad\ policko\ sa\ nachadza\ na\ suradniciach\ [6,\ 2].\r\n
+numComments=7
