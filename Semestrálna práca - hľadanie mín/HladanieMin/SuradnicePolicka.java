@@ -21,7 +21,7 @@ public class SuradnicePolicka {
      * Vracia suradnicu policka (na ktorom riadku sa nachadza)
      */
     public int getRiadok() {
-        return riadok;      //vrati hodnotu atributu riadok (integer)
+        return this.riadok;      //vrati hodnotu atributu riadok (integer)
     }
 
     /**
@@ -35,7 +35,7 @@ public class SuradnicePolicka {
      * Vracia suradnicu policka (na ktorom riadku sa nachadza)
      */
     public int getStlpec() {
-        return stlpec;       //vrati hodnotu atributu stlpec (integer)
+        return this.stlpec;       //vrati hodnotu atributu stlpec (integer)
     }
 
     /**
